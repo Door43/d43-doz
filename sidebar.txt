@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[doz:home|Door43 (doz)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-doz|d43-doz repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-doz/archive/master.zip|d43-doz.zip]]
+
+**Recent Changes**
+{{changes>ns = doz}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/doz|Ethnologue data]]
+
